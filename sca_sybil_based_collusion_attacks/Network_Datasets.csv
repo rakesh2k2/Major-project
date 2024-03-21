@@ -1,0 +1,169 @@
+a man is,destination_ip,start_time,Network_Node_Text,source_port,destination_port,flags,site,asn,num_packets,num_bytes,Label
+135.b1d10.d1c38.20,135.0777d.04511.237,1415749946,Four bombs explode at Christian churches and one man dies in a hand grenade attack in Jakarta.,22,45092,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.13fe9.91,1415477729,Terrorists enter the home of a civilian and kill his wife.,45603,22,"-A----,-AP---",45c48,c4ca4,11,956,1
+135.0777d.04511.237,135.b1d10.13fe9.71,1415702327,Two civilians are abducted from their homes then executed by the Mujahideen.,45596,22,"-A----,-AP---",45c48,c4ca4,11,956,1
+135.b1d10.d1c38.119,135.0777d.04511.237,1415754478,Three separate terror attacks in the district leave a civilian and five security forces dead.,22,50107,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.13fe9.56,135.0777d.04511.237,1415749597,A Muslim militant kills two and injures twenty-five in a grenade attack on a city street.,22,45580,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.72,135.0777d.04511.237,1415745508,A cleric is gunned down in a sectarian attack.,22,51595,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.d1c38.126,135.0777d.04511.237,1415754317,Two civilians are abducted and killed by the Mujahideen in separate incidents (Badran and Kulgam).,22,38662,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.37,1415427333,An ambush on a security patrol leaves two members dead.,48823,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.112,1415584036,Three brothers are killed in their home by Lashkar-e-Toiba terrorists.  A dozen others are injured in the attack.,51452,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.d1c38.20,1415582789,"Four civilians, three of whom were in the same family are gunned down when fleeing their home after Jaish-e-Mohammed cadres flush them out with grenades.",45092,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.13fe9.91,135.0777d.04511.237,1415747239,Fifteen year-old flies plane into an office building in Tampa. Suicide note reveals his admiration for Osama Bin Laden and desire to commit a terrorist attack.,22,45603,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.13fe9.85,1415678603,Soldier killed by two Mujahideen suicide attackers.,59307,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.13fe9.118,135.0777d.04511.237,1415743957,Palestinian terrorists infiltrate border and kill four soldiers. Two others were wounded.,22,36831,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.79,135.0777d.04511.237,1415754477,Government official is killed by Islamists.,22,51495,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.13fe9.64,135.0777d.04511.237,1415754296,Terrorists kill a village official.,22,59296,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.153,1415422624,A civilian is murdered by the Mujahideen.,38605,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.208,1415477735,"In separate attacks, three civilians are killed by Islamic militants.  A security checkpoint is attacked as well, with three security forces killed.",51461,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.d1c38.225,1415753589,Woman killed near gas station. Her aunt is injured in the shooting attack by Palestinians.,51457,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.9cfdf.109,1415753380,An American citizen is kidnapped then killed by Al-Aqsa Brigade.,41070,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.9cfdf.109,1415668378,A man and his wife are abducted and killed by Lashkar-e-Toiba.,33003,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.9cfdf.73,135.0777d.04511.237,1415745478,A Christian man is gunned down by angry Muslims while collecting fruit.,22,38660,"-A----,-AP---",45c48,c4ca4,6,504,1
+135.b1d10.9cfdf.100,135.0777d.04511.237,1415753850,Five guards are injured in an Islamist attack on the airport.,22,32981,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.9cfdf.100,1415754422,Arab killed in Jenin while sitting in a car bearing Israeli license plates.,32981,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.9cfdf.56,135.0777d.04511.237,1415742950,Terrorist barges into a bat mitzvah reception and kills six guests with an assault rifle. Thirty-five others also shot.,22,38594,"-A----,-AP---",45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.9cfdf.91,1415472475,Two civilians are killed in a terrorist bombing.  Eight others are injured.,51488,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.208,135.0777d.04511.237,1415754491,Two children are injured when a Muslim throws a grenade into a house.,22,51461,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.d1c38.151,135.0777d.04511.237,1415755361,"Muslim terrorists invade a home and slaughter eight children, two women and one man in a bloody rampage.",22,33012,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.151,1415140946,"Palestinian terrorist fires assault rifle into a bus-stop, killing two women and injuring forty others.",33012,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.9cfdf.71,135.0777d.04511.237,1415753215,Five guards at the American Center are killed in a drive-by shooting attack by Islamists.,22,38650,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.114,1415699427,Two civilians are abducted and murdered by the Mujahideen.,36742,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.9cfdf.147,135.0777d.04511.237,1415749183,A security officer is killed in an ambush by Muslim militants.,22,36814,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.123,1415324496,The Mujahideen murder a man and his mother inside their home.,38644,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.d1c38.68,135.0777d.04511.237,1415748909,An 81-year-old is killed and over one-hundred and fifty injured by suicide bomber armed with more than 10k of explosives.,22,33035,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.b1d10.13fe9.66,135.0777d.04511.237,1415752164,Two civilians are killed by Islamic terrorists at their village.,22,59299,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.13fe9.66,1415467199,An off-duty police officer and a family member are killed in their home by the Mujahideen.,59299,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.9cfdf.148,1415699451,"Islamic militants lob a grenade at the families of migrant workers, killing three, including two infants.",36812,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.81,1415700939,Two family members are injured in a Mujahideen attack on their home.  One later dies of injuries.,45096,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.39,135.0777d.04511.237,1415747387,Pakistani-backed militants abduct two civilians and kill them in captivity.,22,41794,"-A----,-AP---",45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.13fe9.61,1415701785,Muslim separatists assassinate an independent newspaper editor in his office.,45586,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.13fe9.52,135.0777d.04511.237,1415754107,A political activist and his bodyguard are gunned down.,22,45575,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.d1c38.67,135.0777d.04511.237,1415754133,Two civilians are abducted and murdered by Muslim terrorists.,22,51780,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.67,1415753952,Five Islamic fundamentalists set up a false roadblock and proceed to slaughter a dozen unlucky motorists.,51780,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.59,1415322557,"Jamaat-e-Islami militants set off a series of bombs at a press club, killing at least one person.",33020,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.68,1415667857,Two Muslim terrorists gun down a cop involved in anti-terror activities.,33035,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.60,135.0777d.04511.237,1415755341,"Islamic militants attack two women in their home, brutally killing them along with the young daughter of one.",22,33021,"-A----,-AP---",45c48,c4ca4,46550,69262720,0
+135.0777d.04511.237,135.b1d10.d1c38.60,1415700235,Most of the 25 victims were from the same family and were killed for trying to defend themselves. Knives and bullets were used by the Muslim radicals.,33021,22,"-A----,-AP---",45c48,c4ca4,24016,1282304,0
+135.0777d.04511.237,135.b1d10.d1c38.86,1415178974,Three people including a mother and her 11-year-old daughter are killed in a home invasion by an armed terrorist.,51515,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.9cfdf.101,1415326401,A civilian is abducted and tortured to death by the Mujahideen.,32982,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.9cfdf.98,1415704034,A 25-year-old Israeli is stabbed to death by four Palestinian teen-agers.,32977,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.9cfdf.57,135.0777d.04511.237,1415755168,Elderly man shot to death in a Palestinian ambush while driving car.,22,38608,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.231,135.0777d.04511.237,1415754492,Drive-by shooting leaves two young Israelis dead and four others wounded.,22,51464,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.d1c38.231,1415668363,Islamic fundamentalists slaughter a family of six in a senseless and barbaric attack.,51464,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.242,135.0777d.04511.237,1415754971,A doctor is gunned down outside his clinic in a sectarian attack.,22,45079,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.d1c38.245,1415323576,Three security forces are killed by Muslim terrorists in a shootout.,65299,22,"-A----,-AP---",45c48,c4ca4,22,1208,0
+135.b1d10.d1c38.245,135.0777d.04511.237,1415755307,Islamic militants kill a party activist and burn his house.,22,65299,"-A----,-AP---",45c48,c4ca4,21,10148,1
+135.b1d10.d1c38.150,135.0777d.04511.237,1415743299,A woman is killed by a group of Muslims.,22,33008,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.150,1415585000,Three members of the Algerian self-defense forces are killed in a bombing by Islamic fundamentalists.,33008,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.160,1415471081,"Three civilians are murdered by terrorists in separate attacks (Gowran, Markpora Sumbal and woman at Darhal).",51517,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.9cfdf.101,135.0777d.04511.237,1415754432,"In a horrible attack, Lashkar-e-Toiba terrorists massacre eight members of two families, including two women and four children.",22,32982,"-A----,-AP---",45c48,c4ca4,6,504,1
+135.b1d10.9cfdf.98,135.0777d.04511.237,1415754024,Three teen-agers are blown apart by a Muslim suicide bomber at a pizzeria. Thirty others injured.,22,32977,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.b1d10.d1c38.188,135.0777d.04511.237,1415745753,Three Israelis are killed in a Palestinian shooting attack.,22,45070,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.9cfdf.62,135.0777d.04511.237,1415754471,"Two people, including a civilian, are killed in an IED attack by the Mujahideen.",22,58001,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.9cfdf.90,135.0777d.04511.237,1415739971,"A civilian is killed, and sixteen others injured in a grenade attack by Muslim terrorists.",22,51487,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.9cfdf.107,135.0777d.04511.237,1415735020,Six soldiers are killed when terrorists open fire at a roadblock.,22,33001,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.9cfdf.107,1415465914,A 59-year-old man is murdered by a Palestinian terrorist while driving home from work.,33001,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.9cfdf.95,135.0777d.04511.237,1415744041,"Jewish journalist Daniel Pearl is kidnapped, held for several weeks, then killed by five Islamics. Videotape shows throat being cut.",22,32969,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.9cfdf.105,1415140945,"The Mujahideen attack four civilians, killing two of them.",32996,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.d1c38.154,135.0777d.04511.237,1415753572,"A man is murdered by the Mujahideen, who also seriously injure his sister.",22,38623,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.9cfdf.77,135.0777d.04511.237,1415749598,"A young Christian woman is kidnapped by four Muslim men, who slit her throat and leave her to die.",22,48896,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.136,1415477473,An 'impious' Muslim is stoned to death.,48820,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.d1c38.226,1415146783,One killed and two injured by a Palestinian terrorist while waiting for a bus.,51458,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.9cfdf.124,135.0777d.04511.237,1415747031,An Islamic terrorist kills two Jews and injures one other in a shooting attack.,22,36757,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.9cfdf.124,1415692818,"In a horrific and senseless attack, a group of militant Muslims set fire to a train carrying Hindu pilgrims. Fifty-nine innocents are burned to death, including fifteen children.",36757,22,"----S-,-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.9cfdf.105,135.0777d.04511.237,1415755004,"Two civilians are killed in separate attacks by the Mujahideen (Moila, Newatta).",22,32996,"-A----,-AP---",45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.9cfdf.103,1415668305,"Ten Shias are slaughtered, as Sunnis open up with automatic weapons at point-blank range at a mosque.  At least twenty others are injured.",32991,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.13fe9.88,135.0777d.04511.237,1415755355,Eid-el-Kabir celebrants kill three Christians.,22,45601,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.d1c38.76,1415410874,The Mujahideen pull a man from a passenger bus and execute him by the roadside.,48804,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.d1c38.115,135.0777d.04511.237,1415754120,Jewish employer killed by a Muslim employee. Fatah takes credit for this attack.,22,36741,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.13fe9.117,1415754480,"Islamists ambush a prisoner transport, killing a guard and a prisoner.",36827,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.13fe9.86,135.0777d.04511.237,1415753516,Separate attacks by the Mujahideen leave a police officer and a civilian dead.,22,59308,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.38,1415581797,A man and wife are abducted from their home and killed by Muslim terrorists.,45086,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.d1c38.80,135.0777d.04511.237,1415754284,"Ten people, mostly women and small children were killed by a suicide bomber. Most were waiting with baby carriages for their husbands to return from the synagogue.",22,51496,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.80,1415699531,Jerusalem police detective assassinated by Tanzim while on holiday in the desert.,51496,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.13fe9.88,1415751807,Soldier killed at a roadblock by Palestinian gunman. Four others injured.,45601,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.13fe9.86,1415699531,Hamas terrorist kills ten and wounds six by opening fire at a roadblock.,59308,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.9cfdf.146,135.0777d.04511.237,1415753063,"Two civilians are killed in separate terror attacks (Handwara, Yaripora).",22,36817,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.13fe9.59,1415751737,The Mujahideen abduct and massacre four civilians in a brutal attack.,45584,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.13fe9.60,135.0777d.04511.237,1415754081,A doctor is killed by two gunmen in a sectarian attack.,22,45585,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.38,135.0777d.04511.237,1415745629,85-year-old man is killed in a Fedayeen suicide bombing at a bus station.,22,45086,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.94,135.0777d.04511.237,1415753679,A female motorist gunned down by a Palestinian sniper. Her husband is badly injured.,22,36473,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.d1c38.66,1415581546,Three Israelis are killed and more than thirty injured when two Muslim gunmen open fire at adjacent restaurants.,33033,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.61,135.0777d.04511.237,1415751672,Two Israeli soldiers are killed in a Palestinian ambush.,22,33024,"-A----,-AP---",45c48,c4ca4,176775,262961700,0
+135.0777d.04511.237,135.b1d10.9cfdf.102,1415140945,"Muslim gunmen storm a Christian prayer meeting attempting to kill the leader. Twelve are killed, an unknown number injured.",32989,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.9cfdf.80,135.0777d.04511.237,1415736859,Another physician is killed in a sectarian attack on his car.,22,36723,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.9cfdf.97,135.0777d.04511.237,1415755657,"In separate attacks (Watnar, Mendhar, Androon) three civilians are killed after being taken captive.",22,40729,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.9cfdf.58,1415327374,Five Israeli teen-agers are killed and twenty-three are injured by a Palestinian sniper in a heinous shooting.,38629,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.d1c38.219,135.0777d.04511.237,1415759729,"Islamic attackers open fire on a civilian vehicle then set the car on fire, killing a half-dozen people.",22,48812,-AP---,45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.135,1415415969,An Israelis soldier is killed by a Palestinian sniper.,48815,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.0777d.04511.237,135.b1d10.d1c38.128,1415425652,A retired Shia banker is killed by radical Sunnis in his shop.,51499,22,"-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.9cfdf.111,135.0777d.04511.237,1415755351,"A doctor is gunned down by Sunnis on motorcycles, who also injure a patient.",22,33048,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.b1d10.9cfdf.11,135.0777d.04511.237,1415752102,A Hamas (Islamic Resistance) suicide bomber kills eleven and injures 54 at a crowded cafe.,22,41763,"-A----,-AP---",45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.d1c38.155,1415692638,The Fatah Al-Aqsa Brigades takes credit for killing a 9-month-old infant and one other in grenade attack that also left 50 others injured.,36509,22,"----S-,-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.18,135.0777d.04511.237,1415745251,"Bomb rocks a local exhibition, killing at least two.",22,36743,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.99,135.0777d.04511.237,1415751067,"The Mujahideen abduct two civilians, later executing one of them.  Fate of the other is unknown.",22,36483,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.d1c38.99,1415692613,Four people are killed in sectarian violence between Shias and Sunnis.,36483,22,"----S-,-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.d1c38.14,135.0777d.04511.237,1415738885,"Gunmen disguised in IDF uniforms ambush a bus and kill six, wound seven.",22,62899,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.b1d10.d1c38.71,135.0777d.04511.237,1415739903,A Shia doctor is gunned down outside his clinic.,22,33036,"-A----,-AP---",45c48,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.d1c38.18,1415692812,Four civilians are abducted and murdered by the Mujahideen in separate attacks.,36743,22,"----S-,-A----,-AP---",45c48,c4ca4,12,1008,0
+135.b1d10.13fe9.90,135.0777d.04511.237,1415743206,A civilian and his son are shot to death by radical Muslims.,22,45602,-AP---,45c48,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.13fe9.65,1415752284,Islamic rebels rape a Hindu woman before killing her and her son.  The bodies are left in the forest.,59297,22,"-A----,-AP---",45c48,c4ca4,12,1008,1
+135.b1d10.13fe9.84,135.0777d.04511.237,1415753908,Terrorists detonate a bomb by remote control that kills three Israelis and injures two.,22,45597,-AP---,45c48,c4ca4,6,504,1
+135.b1d10.d1c38.118,135.0777d.04511.237,1415751230,Five policemen are gunned down by Islamists.,22,60422,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.d1c38.127,135.0777d.04511.237,1415754795,Grenade attack on a Christian church kills five worshippers including American woman and her 17-year-old daughter. Forty-five others were injured.,22,51498,-AP---,45c48,c4ca4,6,504,0
+135.b1d10.6f3ef.69,135.0777d.04511.237,1415751286,"A Palestinian terrorist opens fire on motorists, taking the life of a teenager and injuring sixteen others.",22,38670,-AP---,c9f0f,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.6f3ef.69,1415428775,A party activist is killed in a sectarian attack.,38670,22,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.6f3ef.80,1415692809,Thirteen injured by home-made bomb at the post office set by Islamic fundamentalists.,36722,5453,"----S-,-A----,-AP---",c9f0f,c4ca4,10,840,0
+135.b1d10.6f3ef.76,135.0777d.04511.237,1415761286,Four farmers are ambushed and killed by armed Islamic fundamentalists.,22,36796,-AP---,c9f0f,c4ca4,5,420,1
+135.b1d10.6f3ef.75,135.0777d.04511.237,1415750486,"Islamic fundamentalists kill six victims, all from the same family. The father and mother were beheaded - the four children mutilated.",22,36791,-AP---,c9f0f,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.6f3ef.75,1415692831,A 60-year-old man is gunned down by Muslim snipers on a golf course.,36791,34242,"----S-,-A----,-AP---",c9f0f,c4ca4,11,956,1
+135.b1d10.b1d10.191,135.0777d.04511.237,1415750780,"Three people, including a professor, are killed in two sectarian attacks.",22,51816,-AP---,c9f0f,c4ca4,6,504,1
+135.b1d10.6f3ef.80,135.0777d.04511.237,1415751797,Militant Muslims hang a young girl.,22,62409,-AP---,c9f0f,c4ca4,6,504,1
+135.b1d10.6f3ef.61,135.0777d.04511.237,1415744652,Two children are killed by a Mujahideen IED blast.,22,38702,"-A----,-AP---",c9f0f,c4ca4,5,420,1
+135.0777d.04511.237,135.b1d10.b1d10.177,1415736113,Seven passengers are killed when a Fedayeen suicide bomber blows up a passenger bus.  Thirty others are injured in the blast.,43131,3242,"-A----,-AP---",c9f0f,c4ca4,11,892,1
+135.b1d10.6f3ef.94,135.0777d.04511.237,1415759511,Suicide bomber kills three and injures eighty-six when detonating in a crowd of shoppers.,22,55782,"-A----,-AP---",c9f0f,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.6f3ef.94,1415502554,The Shia owner of a video shop is gunned down by militant Sunnis.,55782,4324,"-A----,-AP---",c9f0f,c4ca4,11,892,1
+135.b1d10.6f3ef.122,135.0777d.04511.237,1415751835,Fourteen people are injured when a Muslim radical throws a grenade at a bus stop.,22,37874,"-A----,-AP---",c9f0f,c4ca4,5,420,1
+135.0777d.04511.237,135.b1d10.091d5.185,1415692844,Thirty-five people sustain injury when a Fedayeen hurls a grenade into a crowded market.,36829,4535,"----S-,-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.b1d10.b1d10.135,135.0777d.04511.237,1415759737,A woman is among two people killed by Lashkar-e-Toiba in a grenade attack.,22,49728,-AP---,c9f0f,c4ca4,5,420,1
+135.0777d.04511.237,135.b1d10.6f3ef.104,1415671320,A woman is killed by a Palestinian sniper while riding on a bus.,37013,5345,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.6f3ef.66,1415692833,Lashkar-e-Toiba terrorists are thought responsible for three attacks that leave six security force members dead.,36801,5464,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.b1d10.6f3ef.60,135.0777d.04511.237,1415761877,A man is abducted and tortured to death by the Mujahideen.,8678768,38694,-AP---,c9f0f,c4ca4,6,504,1
+135.b1d10.6f3ef.59,135.0777d.04511.237,1415742762,Hamas (Islamic Resistance) bomber kills twenty-nine Jews celebrating Passover in a hotel. One-hundred and thirty-seven others are injured in the attack.,8678,38687,"-A----,-AP---",c9f0f,c4ca4,5,420,1
+135.0777d.04511.237,135.b1d10.6f3ef.77,1415706184,"A 20-year-old man, his two middle-aged parents and his grandfather were killed during a home invasion by a Muslim gunman.",36800,353,"-A----,-AP---",c9f0f,c4ca4,11,956,1
+135.0777d.04511.237,135.b1d10.6f3ef.124,1415715052,Two security guards are killed and twenty-eight people injured by a suicide bomber. Two soldiers were also killed by Palestinians in Ramallah.,36756,5345,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.6f3ef.10,1415692809,Two elderly Jews are killed by a Palestinian terrorist.  Two Palestinian groups claim credit.,36721,43535,"----S-,-A----,-AP---",c9f0f,c4ca4,11,956,1
+135.0777d.04511.237,135.b1d10.b1d10.193,1415692741,The Mujahideen burn houses and kill two civilians.,36611,5435353535,"-A----,-AP---",c9f0f,c4ca4,11,956,1
+135.0777d.04511.237,135.b1d10.b1d10.176,1415706163,A Fedayeen attack kills two border guards.,44329,435353,"-A----,-AP---",c9f0f,c4ca4,11,892,0
+135.0777d.04511.237,135.b1d10.6f3ef.68,1415498643,"A Fedayeen attack on a Hindu temple kills seven people, including a female pilgrim.",38665,543543534,"-A----,-AP---",c9f0f,c4ca4,9,788,0
+135.0777d.04511.237,135.b1d10.b1d10.185,1415451921,"A 36-year-old woman is murdered, and thirty others wounded by a suicide bomber in a cafe.",51247,435345345,"-A----,-AP---",c9f0f,c4ca4,11,892,0
+135.b1d10.b1d10.236,135.0777d.04511.237,1415750678,Fifteen Israelis are killed in a restaurant by a Fedayeen suicide bomber. Over forty others are burned and maimed in the explosion.,67575,36616,-AP---,c9f0f,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.b1d10.212,1415451010,A mosque caretaker and his son are killed in a sectarian attack.,51619,54354354,"-A----,-AP---",c9f0f,c4ca4,11,956,1
+135.b1d10.6f3ef.124,135.0777d.04511.237,1415752103,A man is killed inside his home merely for being the brother of a police officer.,657,36756,-AP---,c9f0f,c4ca4,6,504,1
+135.0777d.04511.237,135.b1d10.b1d10.190,1415485859,"Bomb explodes on a passenger bus, killing at least two people.",51819,435345345,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.b1d10.b1d10.186,135.0777d.04511.237,1415751714,Islamic terrorists kill a teacher inside his home in an attack that also injures his young son.,534543,56895,-AP---,c9f0f,c4ca4,5,420,1
+135.b1d10.6f3ef.73,135.0777d.04511.237,1415750177,Two policemen are killed in a village ambush by the Mujahideen.,45353,38707,-AP---,c9f0f,c4ca4,5,420,0
+135.b1d10.b1d10.189,135.0777d.04511.237,1415750270,"Terrorists attack the house of a civilian, killing his son.  Elsewhere (Handwara) a man is abducted and murdered.",543534,51815,-AP---,c9f0f,c4ca4,6,504,1
+135.b1d10.6f3ef.56,135.0777d.04511.237,1415751645,A public works employee is murdered outside his residence.,5435,38663,-AP---,c9f0f,c4ca4,6,504,0
+135.0777d.04511.237,135.b1d10.6f3ef.109,1415451805,"In a brutal attack, Tehreek-e-Jehad-e-Islami members enter the house of a civilian and shoot him to death, along with his wife, daughter and another girl.",37860,22,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.b1d10.179,1415692611,"An Islamist throws a bomb into a Christian center, killing five and injuring fifty-seven other innocents.",54353,22,"----S-,-A----,-AP---",c9f0f,c4ca4,11,956,0
+135.0777d.04511.237,135.b1d10.b1d10.124,1415666723,"Palestinian gunman opens fire at the entrance to a settlement. One is killed, five are wounded.",54353,22,"-A----,-AP---",c9f0f,c4ca4,6575,1008,0
+135.b1d10.b1d10.86,135.0777d.04511.237,1415747425,"A terrorist bomb explodes near a government convoy. Nine are killed, ninety-two are injured.",55345,36472,-AP---,c9f0f,c4ca4,56756,420,0
+135.b1d10.b1d10.41,135.0777d.04511.237,1415753933,"A horrific assault by Hizbul Mujahideen on a village leaves seven persons, including three children and two women dead.  Another child subsequently dies of injuries.",54354353,65449,-AP---,c9f0f,c4ca4,65757,504,1
+135.b1d10.b1d10.114,135.0777d.04511.237,1415762180,Two brothers are abducted and murdered by Lashkar-e-Toiba.,43534,56998,-AP---,c9f0f,c4ca4,6757,504,0
+135.0777d.04511.237,135.b1d10.b1d10.114,1415337215,"A grenade attack by militant Muslims leaves two civilians dead and eleven others, including three girls, critically injured.",56998,22,"-A----,-AP---",c9f0f,c4ca4,765757,1008,1
+135.0777d.04511.237,135.b1d10.b1d10.24,1415452710,Thirteen IDF reservists are killed and seven injured by the combined efforts of a very young Palestinian suicide bomber and supporting gunfire.,47791,7658,"-A----,-AP---",c9f0f,c4ca4,75675,1008,0
+135.0777d.04511.237,135.b1d10.b1d10.110,1415485209,Eight people are killed by a Muslim bomber while riding on a bus. Twenty-two others are injured in the attack.,51239,67868,"-A----,-AP---",c9f0f,c4ca4,7567,892,1
+135.b1d10.b1d10.124,135.0777d.04511.237,1415752467,Islamic suicide bomber kills twenty-one in an attack on town's oldest synagogue. Youngest fatality is an 11-year-old German boy.,22,51234,-AP---,c9f0f,c4ca4,65465,504,1
+135.0777d.04511.237,135.b1d10.091d5.66,1415730030,"Six people, including two Chinese nationals, are killed by a Palestinian suicide bomber at a bus stop in an attack that leaves one-hundred and four others injured.",57901,879,"-A----,-AP---",c9f0f,c4ca4,6757,1008,1
+135.b1d10.091d5.52,135.0777d.04511.237,1415760796,Four separate Fedayeen attacks across the region leave ten innocents dead and at least seventeen others injured.,67657,57880,-AP---,c9f0f,c4ca4,675,504,1
+135.b1d10.b1d10.103,135.0777d.04511.237,1415751435,A Mujahideen attack on a security patrol leaves one member dead.,7587,51251,-AP---,c9f0f,c4ca4,876,504,1
+135.0777d.04511.237,135.b1d10.6f3ef.147,1415692839,A grenade lobbed onto the road by a militant Muslim kills a civilian and injures nine others.,36816,22,"----S-,-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.6f3ef.148,1415692840,A woman is cut down by Muslim terrorists.,36818,22,"----S-,-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.b1d10.b1d10.105,135.0777d.04511.237,1415750857,The Mujahideen kills two civilians with an IED.,765785t,65392,-AP---,c9f0f,c4ca4,56,504,1
+135.b1d10.b1d10.46,135.0777d.04511.237,1415751419,Two civilians are killed in a bomb blast at a market.,6897970,51482,-AP---,c9f0f,c4ca4,87,420,1
+135.0777d.04511.237,135.b1d10.b1d10.67,1415489491,A civilian is abducted and killed by Islamic terrorists.,51478,22,"-A----,-AP---",c9f0f,c4ca4,11,956,0
+135.0777d.04511.237,135.b1d10.6f3ef.107,1415451585,"The Mujahideen attacks a security patrol, killing three members.",37856,22,"-A----,-AP---",c9f0f,c4ca4,12,1008,1
+135.0777d.04511.237,135.b1d10.6f3ef.65,1415692832,Islamists kill a man and his grandmother at their residence.,36793,22,"----S-,-A----,-AP---",c9f0f,c4ca4,11,892,1
+135.b1d10.b1d10.223,135.0777d.04511.237,1415750661,A physician succumbs to injuries suffered in a sectarian attack.,22,51821,-AP---,c9f0f,c4ca4,6,504,1
